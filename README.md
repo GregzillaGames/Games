@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Bem-Vindo ao meu site!
+
+Hoje veremos algumas curiosidades sobre alguns videogames que marcaram a história
+![Image](![image](https://user-images.githubusercontent.com/81582960/116823164-5582b300-ab59-11eb-9a09-7072a02987a4.png)
+
 
 You can use the [editor on GitHub](https://github.com/GregzillaGames/Games/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
