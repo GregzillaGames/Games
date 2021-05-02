@@ -5,8 +5,8 @@ Hoje veremos algumas curiosidades sobre alguns videogames que marcaram a histór
 ![image](https://user-images.githubusercontent.com/81582960/116823376-8ca59400-ab5a-11eb-9e48-dd0e01c6f764.png)
 
 **1.NES(Nintendo Entertainment System)**
-* Foi o primeiro console da Nintendo
-
+* Foi o primeiro console de mesa da Nintendo.
+* A primeira versão do NES saiu no Japão e tinha as cores vermelho e creme, além de um suporte para o controle embutido no console.
 You can use the [editor on GitHub](https://github.com/GregzillaGames/Games/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
