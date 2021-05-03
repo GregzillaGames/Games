@@ -1,5 +1,4 @@
-#GAMES
-## Bem-Vindo ao meu site!
+## Bem-Vindo ao site Pura_Nostalgia!
 
 Hoje veremos algumas curiosidades sobre alguns videogames que marcaram a história da galerinha gamer
 
@@ -8,6 +7,11 @@ Hoje veremos algumas curiosidades sobre alguns videogames que marcaram a histór
 **1.NES(Nintendo Entertainment System)**
 * Foi o primeiro console de mesa da Nintendo.
 * A primeira versão do NES saiu no Japão e tinha as cores vermelho e creme, além de um suporte para o controle embutido no console.
+* O NES foi o primeiro console a permitir que empresas terceirizadas fabricassem jogos para um console.
+* Foi o primeiro console a investir em periféricos tais como R.O.B, a arma Zapper e a Power Glove.
+* No Brasil, diversos clones do NES/Famicom foram lançados, entre eles o Phantom System e o Dynavision II.
+* O NES foi o console que deu vida à séries como The Legend of Zelda, Mega Man, Contra, Metroid e Final Fantasy.
+
 You can use the [editor on GitHub](https://github.com/GregzillaGames/Games/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
