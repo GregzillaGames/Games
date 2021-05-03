@@ -1,10 +1,10 @@
 ## Bem-Vindo ao site Pura Nostalgia!
 
-Hoje veremos algumas curiosidades sobre alguns videogames que marcaram a história da galerinha gamer, dentre eles, [Atari 2600](https://github.com/GregzillaGames/Games/blob/main/README.md)
+Hoje veremos algumas curiosidades sobre alguns videogames que marcaram a história da galerinha gamer, dentre eles, '''https://github.com/GregzillaGames/Games/blob/main/README.md'''
 
 ![image](https://user-images.githubusercontent.com/81582960/116924668-91d41300-ac2e-11eb-90c1-bc4ebbd73f1f.png)
 
-**1.Atari 2600**
+'''**1.Atari 2600**'''
 * Algumas das séries que conhecemos hoje nasceram no Atari, enquanto outras não foram necessariamente criadas lá, mas que fizeram enorme sucesso e estão por aí até nos consoles atuais, com novas versões, tais como, Breakout (também conhecido como Arkanoid), Pac-Man, Pitfall, Asteroids, Donkey Kong, Frogger e dentre outros.
 * Foi um dos responsáveis pelo crash dos anos 80, já que as empresas começaram a fabricar jogos de péssima qualidade. O game “E.T.”, baseado no filme de Steven Spielberg, foi um dos grandes exemplos dessa situação, já que foi tão mal recebido que teve até mesmo que ser retirado das prateleiras.
 * O sucesso do Atari no Brasil não foi por acaso. Ele foi o responsável pela criação da indústria de videogames no país. Na década de 80, a importação de produtos eletrônicos era proibida por lei, por conta da chamada “reserva de mercado”.
