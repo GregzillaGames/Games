@@ -2,8 +2,10 @@
 
 Hoje veremos algumas curiosidades sobre alguns videogames que marcaram a história da galerinha gamer
 
+![image](https://user-images.githubusercontent.com/81582960/116924668-91d41300-ac2e-11eb-90c1-bc4ebbd73f1f.png)
+
 **1.Atari 2600**
-*
+* Algumas das séries que conhecemos hoje nasceram no Atari, enquanto outras não foram necessariamente criadas lá, mas que fizeram enorme sucesso e estão por aí até nos consoles atuais, com novas versões.
 *
 *
 *
