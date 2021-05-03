@@ -1,6 +1,6 @@
 ## Bem-Vindo ao site Pura Nostalgia!
 
-Hoje veremos algumas curiosidades sobre alguns videogames que marcaram a história da galerinha gamer, dentre eles, 
+Hoje veremos algumas curiosidades sobre alguns videogames que marcaram a história da galerinha gamer, dentre eles, [Atari 2600]
 
 ![image](https://user-images.githubusercontent.com/81582960/116924668-91d41300-ac2e-11eb-90c1-bc4ebbd73f1f.png)
 
