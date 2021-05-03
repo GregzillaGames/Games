@@ -1,3 +1,4 @@
+#GAMES
 ## Bem-Vindo ao meu site!
 
 Hoje veremos algumas curiosidades sobre alguns videogames que marcaram a história da galerinha gamer
