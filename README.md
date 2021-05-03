@@ -3,8 +3,15 @@
 Hoje veremos algumas curiosidades sobre alguns videogames que marcaram a história da galerinha gamer
 
 ![image](https://user-images.githubusercontent.com/81582960/116823376-8ca59400-ab5a-11eb-9e48-dd0e01c6f764.png)
+**1.Atari 2600**
+*
+*
+*
+*
+*
+*
 
-**1.NES(Nintendo Entertainment System)**
+**2.NES(Nintendo Entertainment System)**
 * Foi o primeiro console de mesa da Nintendo.
 * A primeira versão do NES saiu no Japão e tinha as cores vermelho e creme, além de um suporte para o controle embutido no console.
 * O NES foi o primeiro console a permitir que empresas terceirizadas fabricassem jogos para um console.
